@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/saikarthikvemuri/Downloads/**)",
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)",
+      "Bash(npm view:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
